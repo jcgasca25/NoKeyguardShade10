@@ -4,7 +4,7 @@ android {
     buildToolsVersion "28.0.3"
 
     defaultConfig {
-        applicationId "cn.nexus6p.RemoveKeyguardShade"
+        applicationId "ml.voidstar.nokeyguardshade10"
         minSdkVersion 21
         //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 21
